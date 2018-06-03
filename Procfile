@@ -1,1 +1,1 @@
-worker: python SOD-BOT.py
+worker: python SODBOT.py
